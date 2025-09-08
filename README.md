@@ -1,4 +1,4 @@
-# EEG-based Envelope Reconstruction  
+# Decoding Speech from Brain Signals with CNN, LSTM, and GCN Models
 
 This repository contains code and experiments for reconstructing the **speech envelope** from EEG signals using the **SparrKULee EEG dataset**. Multiple deep learning models, including CNNs, LSTMs, Transformers, and GCN-based architectures, have been implemented and compared.  
 
