@@ -69,5 +69,5 @@ We use the **SparrKULee EEG dataset**:
 
 Clone the repository:  
 ```bash
-git clone https://github.com/usagopro/Research.git
+git clone https://github.com/usagopro/Decoding-Speech-from-Brain-Signals-with-CNN-LSTM-and-GCN-Models.git
 
